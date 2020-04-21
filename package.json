@@ -1,0 +1,17 @@
+{
+  "name": "todo-node",
+  "version": "1.0.0",
+  "description": "todo list with node express mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Kwesi Yalley",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongose": "0.0.2-security"
+  }
+}
